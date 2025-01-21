@@ -19,6 +19,8 @@ import AdvanceTab from "../TabStyles/AdvanceTab";
 import CtaOne from "../CallToActions/Cta-One";
 import CtaTwo from "../CallToActions/Cta-Two";
 import { useAppContext } from "@/context/Context";
+import Script from "next/script";
+import HighlightNews from "../HighlightNews/Highlight-News";
 
 const Home = () => {
   const [visibleIndex, setVisibleIndex] = useState(0);
@@ -155,7 +157,6 @@ const Home = () => {
           </div>
         </div>
 
-
         <div className="bg-shape">
           <Image
             className="bg-shape-one"
@@ -221,8 +222,9 @@ const Home = () => {
         </div>
       </div>
       <div className="rainbow-rn-cta">
-        <div className="container">
-          <CtaOne />
+        <div className="container py-5">
+          {/* <CtaOne /> */}
+          <HighlightNews />
         </div>
       </div>
     </>

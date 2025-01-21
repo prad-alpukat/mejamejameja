@@ -76,145 +76,146 @@
 
 ***************************************/
 
-
 /**************************************
     Default Styles
 ***************************************/
-@import 'default/variables';
-@import 'default/mixins';
-@import 'default/reset';
-@import 'default/typography';
-@import 'default/extend';
-@import 'default/animations';
-@import 'default/shortcode';
-@import 'default/spacing';
-@import 'default/common';
-@import 'default/forms';
-@import 'default/sal';
-@import 'default/text-animation';
-
+@import "default/variables";
+@import "default/mixins";
+@import "default/reset";
+@import "default/typography";
+@import "default/extend";
+@import "default/animations";
+@import "default/shortcode";
+@import "default/spacing";
+@import "default/common";
+@import "default/forms";
+@import "default/sal";
+@import "default/text-animation";
 
 /**************************************
     Theme Styles
 ***************************************/
-@import 'color/themebg';
+@import "color/themebg";
 
 /**************************************
     Header Styles
 ***************************************/
-@import 'header/headerdefault';
-@import 'header/nav';
-@import 'header/header-top';
-@import 'header/headerTopBar';
-@import 'header/mobilemenu';
-@import 'header/onepage';
-
+@import "header/headerdefault";
+@import "header/nav";
+@import "header/header-top";
+@import "header/headerTopBar";
+@import "header/mobilemenu";
+@import "header/onepage";
 
 /**************************************
             Elements 
 ***************************************/
-@import 'elements/breadcrumb';
-@import 'elements/sectiontitle';
-@import 'elements/button';
-@import 'elements/service';
-@import 'elements/card';
-@import 'elements/counter';
-@import 'elements/progressbar';
-@import 'elements/accordion';
-@import 'elements/social-share';
-@import 'elements/team';
-@import 'elements/portfolio';
-@import 'elements/testimonial';
-@import 'elements/slickslide';
-@import 'elements/timeline';
-@import 'elements/call-to-action';
-@import 'elements/tab';
-@import 'elements/pricing';
-@import 'elements/split';
-@import 'elements/vedio';
-@import 'elements/gallery';
-@import 'elements/contact';
-@import 'elements/brand';
-@import 'elements/404';
-@import 'elements/advance-tab';
-@import 'elements/advancepricing';
-@import 'elements/contact-form';
-@import 'elements/backto-top';
-@import 'elements/about';
-@import 'elements/newsletter';
-@import 'elements/feature';
-@import 'elements/signup';
-@import 'elements/release-notes';
-@import 'elements/utilize';
-@import 'elements/switcher';
-
-
-
-
-
+@import "elements/breadcrumb";
+@import "elements/sectiontitle";
+@import "elements/button";
+@import "elements/service";
+@import "elements/card";
+@import "elements/counter";
+@import "elements/progressbar";
+@import "elements/accordion";
+@import "elements/social-share";
+@import "elements/team";
+@import "elements/portfolio";
+@import "elements/testimonial";
+@import "elements/slickslide";
+@import "elements/timeline";
+@import "elements/call-to-action";
+@import "elements/tab";
+@import "elements/pricing";
+@import "elements/split";
+@import "elements/vedio";
+@import "elements/gallery";
+@import "elements/contact";
+@import "elements/brand";
+@import "elements/404";
+@import "elements/advance-tab";
+@import "elements/advancepricing";
+@import "elements/contact-form";
+@import "elements/backto-top";
+@import "elements/about";
+@import "elements/newsletter";
+@import "elements/feature";
+@import "elements/signup";
+@import "elements/release-notes";
+@import "elements/utilize";
+@import "elements/switcher";
 
 /**************************************
             Blog 
 ***************************************/
 
-
-@import 'blog/blog';
-@import 'blog/sidebar';
-@import 'blog/blog-details';
-
-
+@import "blog/blog";
+@import "blog/sidebar";
+@import "blog/blog-details";
 
 /**************************************
     Footer Styles
 ***************************************/
-@import 'footer/footer';
-@import 'footer/copyright';
-
+@import "footer/footer";
+@import "footer/copyright";
 
 /**************************************
             Template
 ***************************************/
-@import 'template/banner';
-@import 'template/portfoliodetails';
-@import 'template/splash';
-@import 'template/lightmode';
-@import 'template/application';
-@import 'template/collaborate';
-
-
+@import "template/banner";
+@import "template/portfoliodetails";
+@import "template/splash";
+@import "template/lightmode";
+@import "template/application";
+@import "template/collaborate";
 
 /**************************************
             Dashboard
 ***************************************/
-@import './dashboard/dashboardd';
-@import 'dashboard/modalbox';
-@import 'dashboard/settings';
+@import "./dashboard/dashboardd";
+@import "dashboard/modalbox";
+@import "dashboard/settings";
 
 /**************************************
             Light Mode
 ***************************************/
-@import './light/light-mode';
+@import "./light/light-mode";
 
 /**************************************
     RTL Styles
 ***************************************/
 // @import './rtl/rtl';
 
-
 @media screen and (max-width: 767px) {
-    .video-homepage {
-        width: 100%;
-        height: auto;
-    }
+  .video-homepage {
+    width: 100%;
+    height: auto;
+  }
 }
 
-.responsive-slider-frame{
-    background-size: 100% !important;
-    display: flex;
-    position: relative;
+.responsive-slider-frame {
+  background-size: 100% !important;
+  display: flex;
+  position: relative;
 }
 
-.responsive-slider-frame::before{
-    bottom: 0 !important;
-    display: none;
+.responsive-slider-frame::before {
+  bottom: 0 !important;
+  display: none;
+}
+
+.highlight-news {
+  display: flex;
+  gap: 3rem;
+  overflow: auto;
+}
+
+// remove scrollbar from news highlight
+.highlight-news::-webkit-scrollbar {
+  display: none;
+}
+
+.highlight-news-card {
+  min-width: 300px;
+  width: 100%;
 }
