@@ -1,0 +1,85 @@
+{
+  "roadmap": [
+    {
+      "heading": "Token Development and Smart Contract Launch",
+      "date": "Phase 1",
+      "isCheck": true,
+      "isLoading": false,
+      "isBorader": true,
+      "title": "",
+      "desc": "In this initial phase, GenOS AI focuses on developing and deploying the $GENOS token on the Ethereum network (ERC-20),ensuring security through comprehensive audits. The phase concludes with a Token Generation Event (TGE) launched via decentralized platforms.",
+      "": [
+        {
+        }
+      ]
+    },
+    {
+      "heading": "Launch of AI Agent Marketplace",
+      "date": "Phase 2",
+      "isCheck": false,
+      "isLoading": true,
+      "isBorader": true,
+      "title": "",
+      "desc": "This Phase introduces the GenOS AI AI Marketplace, where users can trade and purchase pre-designed Token or Ai Agent. The AMrketplace features various AI agent categories, including social media bots and virtual assistants, with ongoing feedback collection to enchance its functionality.",
+      "": [
+        {
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "heading": "Alpha Testing and Platform Foundation",
+      "date": "Phase 3",
+      "isCheck": false,
+      "isLoading": true,
+      "isBorader": true,
+      "title": "",
+      "desc": "Launch alpha version with AI agent costumization and Telegram/Twitter integration. Gather community feedback to refine usability.."
+    },
+    {
+      "heading": "Beta Platform Realese",
+      "date": "Phase 4",
+      "isCheck": false,
+      "isLoading": true,
+      "isBorader": true,
+      "title": "",
+      "desc": "Launch the beta version of GenOS AI with Telegram, Twitter(X), and app integration. Introduce staking for $GENOS to offer passive income and expand token use for deploying and managing GenOS AI."
+    },
+    {
+      "heading": "AI Agent Costumization adn Advanced Functionalities",
+      "date": "Phase 5",
+      "isCheck": false,
+      "isLoading": true,
+      "isBorader": true,
+      "title": "",
+      "desc": "Enable advanced costumization for personalized GenOS AI, add new types like content asssistant and meme genrators, and expand integrations with third-party APIs."
+    },
+    {
+      "heading": "Community Growth and Incentives",
+      "date": "Phase 6",
+      "isCheck": false,
+      "isLoading": false,
+      "isBorader": true,
+      "title": "",
+      "desc": "Introduce rewards, governence for $GENOS holders, and partnerships with crypto/AI communities to boost adoption."
+    },
+    {
+      "heading": "Cross-Chain Integration and Scalability",
+      "date": "Phase 7",
+      "isCheck": false,
+      "isLoading": false,
+      "isBorader": true,
+      "title": "",
+      "desc": "Expand $GENOS to multi-chain networks like BSC and Polygon, implement Layer-2 solutions for faster transaction,and ensure blockchain interoperability for better user access."
+    },
+    {
+      "heading": "Full Decentralization and Future Innovations",
+      "date": "Phase 8",
+      "isCheck": false,
+      "isLoading": false,
+      "isBorader": false,
+      "title": "",
+      "desc": "Implement a DAO for governence by $GENOS holders, enchance GenOS AI with adaptive learning and predictive analytics,expand language support, and drive continuous innovation for a sustainable platform."
+    }
+  ]
+}

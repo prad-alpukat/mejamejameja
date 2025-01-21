@@ -1,0 +1,67 @@
+{
+  "footer": [
+    {
+      "links": [
+        {
+          "title": "Qucik Links",
+          "innerItem": [
+            {
+              "link": "https://genos-ai.gitbook.io/genos-ai/key-futures-and-functionality/1.-token-launcher",
+              "text": "Token Launcher"
+            },
+            {
+              "link": "https://genos-ai.gitbook.io/genos-ai/key-futures-and-functionality/2.-integration-with-platforms-telegram-twitter-x-and-others-apps",
+              "text": "Platform Integration"
+            },
+            {
+              "link": "https://genos-ai.gitbook.io/genos-ai/key-futures-and-functionality/3.-modular-builder",
+              "text": "Modular Builder"
+            },
+            {
+              "link": "https://genos-ai.gitbook.io/genos-ai/project-description/token-mechanics-and-economy",
+              "text": "$GENOS"
+            },
+            {
+              "link": "https://genos-ai.gitbook.io/genos-ai/technology-overview/technological-architecture",
+              "text": "Architecture"
+            }
+          ]
+        }
+      ],
+      "services": [
+        {
+          "title": "Services",
+          "innerItem": [
+            {
+              "link": "/image-generator",
+              "text": "Image Generator"
+            },
+            {
+              "link": "/vedio-generator",
+              "text": "Video Generator"
+            },
+            {
+              "link": "/text-generator",
+              "text": "Text Generator"
+            },
+            {
+              "link": "/code-generator",
+              "text": "Code Generator"
+            },
+            {
+              "link": "#",
+              "text": "Education Feedback"
+            }
+          ]
+        }
+      ],
+      "socialcommunity": [
+        {
+          "x":"",
+          "telegram": "",
+          "medium":""
+        }
+      ]
+    }
+  ]
+}

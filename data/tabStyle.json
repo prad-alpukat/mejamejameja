@@ -1,0 +1,166 @@
+{
+  "TabStyleOne": [
+    {
+      "title": "Video generating AI refers to artificial intelligence.",
+      "img": "/images/generator-img/token-launcher.png",
+      "imgLight": "/images/generator-img/token-launcher.png",
+      "menuId": "video-generator",
+      "text": "Token Launcher",
+      "target": "video-generate",
+      "iconImg": "/images/icons/tokenlauncher-g.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "Transformer Models"
+        },
+        {
+          "text": "Conditional Generative Models"
+        },
+        {
+          "text": "Pre-trained Models"
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "title": "Why Chose Chain Agent $GENOS?",
+      "img": "/images/generator-img/aiagent.png",
+      "imgLight": "/images/generator-img/aiagent.png",
+      "menuId": "audio-generator",
+      "text": "AI Agent",
+      "target": "audio-generate",
+      "iconImg": "/images/icons/aiagent-g.png",
+      "isSelect": true,
+      "subItem": [
+        {
+          "text": "Customizable AI Components Ready for Use"
+        },
+        {
+          "text": "Drag-and-drop AI Builder"
+        },
+        {
+          "text": "Earn with $GENOS"
+        },
+        {
+          "text": "Secure & Transparent"
+        }
+      ]
+    },
+    {
+      "title": "Photo generating AI refers to artificial intelligence.",
+      "img": "/images/generator-img/connectx.png",
+      "imgLight": "/images/generator-img/connectx.png",
+      "menuId": "photo-generator",
+      "text": "Connect with X",
+      "target": "photo-generate",
+      "iconImg": "/images/icons/connectx-g.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "Transformer Models"
+        },
+        {
+          "text": "Conditional Generative Models"
+        },
+        {
+          "text": "Pre-trained Models"
+        },
+        {
+          "text": "Variational Autoencoders"
+        }
+      ]
+    },
+    {
+      "title": "Text generating AI refers to artificial intelligence.",
+      "img": "/images/generator-img/connecttelegram.png",
+      "imgLight": "/images/generator-img/connecttelegram.png",
+      "menuId": "text-generator",
+      "text": "Connect with Telegram",
+      "target": "text-generate",
+      "iconImg": "/images/icons/connecttg-g.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "Transformer Models"
+        },
+        {
+          "text": "Conditional Generative Models"
+        },
+        {
+          "text": "Pre-trained Models"
+        },
+        {
+          "text": "Variational Autoencoders"
+        }
+      ]
+    },
+    {
+      "title": "Code generating AI refers to artificial intelligence.",
+      "img": "/images/generator-img/modularbuilder.png",
+      "imgLight": "/images/generator-img/modularbuilder.png",
+      "menuId": "code-generator",
+      "text": "Modular Builder",
+      "target": "code-generate",
+      "iconImg": "/images/icons/modularbuilder-g.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "Transformer Models"
+        },
+        {
+          "text": "Conditional Generative Models"
+        },
+        {
+          "text": "Pre-trained Models"
+        },
+        {
+          "text": "Variational Autoencoders"
+        }
+      ]
+    }
+  ],
+  "advanceTab": [
+    {
+      "tabId": "home",
+      "target": "home-tab",
+      "isSelect": true,
+      "menuText": "Connect with AI agent",
+      "img": "/images/split/split-1.png",
+      "subTitle": "How it work",
+      "title": "Connect with Al Agent",
+      "desc": "GenOS AI simplifies blockchain engagement with intelligent GenOS AI. Seamlessy integrate,personalize,and explore new ways to automate,manage,and empower your blockchain ecosystem effectively."
+    },
+    {
+      "tabId": "profile",
+      "target": "profile-tab",
+      "isSelect": false,
+      "menuText": "Streamline Workflow",
+      "img": "/images/split/split-4.png",
+      "subTitle": "Exploring Efficiency",
+      "title": "Streamline Your Workflow",
+      "desc": "Discover tools and techniques to optimize your workflow, making your tasks more efficient and manageable."
+    },
+    {
+      "tabId": "contact",
+      "target": "contact-tab",
+      "isSelect": false,
+      "menuText": "Cybersecurity",
+      "img": "/images/split/split-3.png",
+      "subTitle": "Navigating Cybersecurity",
+      "title": "Protecting Your Digital Presence",
+      "desc": "Gain insights into cybersecurity measures and strategies to safeguard your online identity and sensitive information."
+    },
+    {
+      "tabId": "contact",
+      "target": "contact-tab",
+      "isSelect": false,
+      "menuText": "Data Analysis",
+      "img": "/images/split/split-5.png",
+      "subTitle": "Mastering Data Analysis",
+      "title": "Demystifying Data Analytics",
+      "desc": "Learn the fundamentals of data analysis, including tools and methodologies, to extract meaningful insights from raw data."
+    }
+  ]
+}

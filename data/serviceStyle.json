@@ -1,0 +1,54 @@
+{
+  "serviceOne": [
+    {
+      "img": "/images/icons/service-icon-01.svg",
+      "title": "Token Launcher",
+      "desc": "GenOS AI allows users to create their own tokens tied to GenOS AI, opening up a new frontier for the intersection of AI and decentralized finance (DeFi)"
+    },
+    {
+      "img": "/images/icons/service-icon-02.svg",
+      "title": "Integration with Third-Party",
+      "desc": "One of GenOS AI most powerful features is its ability to integrate GenOS AI with popular platforms such as Telegram, Twitter (X)."
+    },
+    {
+      "img": "/images/icons/service-icon-03.svg",
+      "title": "Modular Building",
+      "desc": "GenOS AI can construct GenOS AI by selecting and costumizing pre-built modules. This eliminates the need for deep coding knowledge."
+    },
+    {
+      "img": "",
+      "title": "",
+      "desc": ""
+    },
+    {
+      "img": "",
+      "title": "",
+      "desc": "."
+    },
+    {
+      "img": "",
+      "title": "",
+      "desc": ""
+    }
+  ],
+  "serviceTwo": [
+    {
+      "img": "/images/service/service-icon-01.png",
+      "imgLight": "/images/light/service/service-icon-01.png",
+      "title": "100% No-Risk, Money Back Guarantee!",
+      "desc": "Refunds will be issued within period of 14 days from the purchase date"
+    },
+    {
+      "img": "/images/service/service-icon-02.png",
+      "imgLight": "/images/light/service/service-icon-02.png",
+      "title": "Upgrade or Cancel Anytime",
+      "desc": "Passages there are many variations variations of of Lorem Ipsum available"
+    },
+    {
+      "img": "/images/service/service-icon-03.png",
+      "imgLight": "/images/light/service/service-icon-03.png",
+      "title": "Not sure yet, try the free version",
+      "desc": "Refunds will be issued within period of 14 days from the purchase date"
+    }
+  ]
+}
