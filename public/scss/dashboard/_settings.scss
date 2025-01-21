@@ -154,14 +154,14 @@
         .rbt-dashboard-content .content-page {
             padding: 0;
 
-            .rainbow-pricing.style-aiwave .pricing-header .price-wrapper span.sm-text {
+            .rainbow-pricing.style-genos .pricing-header .price-wrapper span.sm-text {
                 @media #{$sm-layout} {
                     font-size: 42px;
                     line-height: 56px;
                 }
             }
 
-            .aiwave-tab .tab-btn-grp {
+            .genos-tab .tab-btn-grp {
                 @media #{$small-mobile} {
                     padding: 20px;
                 }

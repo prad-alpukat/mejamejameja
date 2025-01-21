@@ -531,7 +531,7 @@
     }
 }
 
-.aiwave-separator {
+.genos-separator {
     &.has-position-bottom {
         position: absolute;
         width: 100%;
@@ -675,7 +675,7 @@
 
         &:nth-child(odd) {
             &:before {
-                content: 'AIWave';
+                content: 'genos';
             }
         }
 
@@ -1006,7 +1006,7 @@
     }
 }
 
-.aiwave-bg-gradient {
+.genos-bg-gradient {
     background: linear-gradient(107deg, #171A21 0.52%, rgba(23, 26, 33, 0.00) 99.49%);
 }
 

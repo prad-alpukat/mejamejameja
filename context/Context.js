@@ -25,7 +25,7 @@ const Context = ({ children }) => {
 
   // ===========> Switcher Function START
   useEffect(() => {
-    const themeType = localStorage.getItem("aiwave-theme");
+    const themeType = localStorage.getItem("genos-theme");
     if (themeType === "dark") {
       setLightTheme(false);
       document.body.classList.add("active-dark-mode");
@@ -35,10 +35,10 @@ const Context = ({ children }) => {
   useEffect(() => {
     if (isLightTheme) {
       document.body.classList.remove("active-dark-mode");
-      localStorage.setItem("aiwave-theme", "light");
+      localStorage.setItem("genos-theme", "light");
     } else {
       document.body.classList.add("active-dark-mode");
-      localStorage.setItem("aiwave-theme", "dark");
+      localStorage.setItem("genos-theme", "dark");
     }
   }, [isLightTheme]);
 

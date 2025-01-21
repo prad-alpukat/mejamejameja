@@ -65,7 +65,7 @@ const ServiceStyleOne = () => {
               {ServiceData &&
                 ServiceData.serviceOne.map((data, index) => (
                   <div className="slide-single-layout" key={index}>
-                    <div className="rainbow-box-card card-style-default aiwave-service-default has-bg-shaped">
+                    <div className="rainbow-box-card card-style-default genos-service-default has-bg-shaped">
                       <div className="inner">
                         <div className="icon">
                           <Image

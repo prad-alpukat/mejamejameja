@@ -3,7 +3,6 @@ import Image from "next/image";
 import Link from "next/link";
 import Sal from "sal.js";
 
-
 import viewImg from "../../public/images/cta-img/ctaa1.png";
 import bgShape from "../../public/images/cta-img/bg-shape.png";
 import bgLight from "../../public/images/bg/bg-shape-tree.png";
@@ -16,7 +15,7 @@ const CtaTwo = () => {
     <>
       <div className="row">
         <div className="col-lg-12">
-          <div className="aiwave-cta">
+          <div className="genos-cta">
             <div className="inner">
               <div className="content-left">
                 <div

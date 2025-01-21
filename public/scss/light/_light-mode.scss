@@ -48,7 +48,7 @@
         color: var(--dark-color-link);
     }
 
-    .aiwave-bg-gradient {
+    .genos-bg-gradient {
         background: var(--color-border-2);
     }
 
@@ -846,7 +846,7 @@
         background: linear-gradient(92deg, rgba(122, 151, 255, 0.10) -0.65%, rgba(235, 239, 255, 0.10) 94.77%);
     }
 
-    .aiwave-service-default .description.centered-shape::after {
+    .genos-service-default .description.centered-shape::after {
         opacity: 0.1;
     }
 
@@ -893,15 +893,15 @@
         }
     }
 
-    .service.service__style--1.aiwave-style .content .title {
+    .service.service__style--1.genos-style .content .title {
         color: var(--color-black);
     }
 
-    .service.service__style--1.aiwave-style .content .description {
+    .service.service__style--1.genos-style .content .description {
         color: var(--dark-color-link);
     }
 
-    .aiwave-tab .tab-btn-grp {
+    .genos-tab .tab-btn-grp {
         border: 2px solid rgba(from var(--color-primary) r g b/0.1);
 
         button {
@@ -918,19 +918,19 @@
         background: linear-gradient(to left, var(--color-primary-gradient-start), var(--color-primary-gradient-end));
     }
 
-    .rainbow-pricing.style-aiwave .pricing-table-inner {
+    .rainbow-pricing.style-genos .pricing-table-inner {
         background: var(--dark-bg-1);
     }
 
-    .rainbow-pricing.style-aiwave::before {
+    .rainbow-pricing.style-genos::before {
         background: var(--color-strock);
     }
 
-    .rainbow-pricing.style-aiwave .pricing-header .icon {
+    .rainbow-pricing.style-genos .pricing-header .icon {
         background: var(--color-gray);
     }
 
-    .rainbow-pricing.style-aiwave .pricing-header .pricing .price-text {
+    .rainbow-pricing.style-genos .pricing-header .pricing .price-text {
         color: var(--color-black);
     }
 
@@ -1100,11 +1100,11 @@
         color: var(--dark-color-link);
     }
 
-    .aiwave-cta .inner {
+    .genos-cta .inner {
         background-image: url(../../images/light/cta-img/bg-img-01.png);
     }
 
-    .aiwave-cta .inner .bg-shape-one {
+    .genos-cta .inner .bg-shape-one {
         opacity: 0.15;
     }
 
@@ -1116,7 +1116,7 @@
         color: var(--color-body);
     }
 
-    .aiwave-service-default .description .read-more-btn {
+    .genos-service-default .description .read-more-btn {
         transition: 0.4s all;
         color: var(--dark-bg-2);
     }
@@ -1295,7 +1295,7 @@
         }
     }
 
-    .aiwave-cta .content-left .description {
+    .genos-cta .content-left .description {
         color: var(--dark-color-link);
     }
 

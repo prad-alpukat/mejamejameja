@@ -21,7 +21,7 @@ const ServiceTwo = () => {
             data-sal-duration="700"
             key={index}
           >
-            <div className="service service__style--1 aiwave-style text-center">
+            <div className="service service__style--1 genos-style text-center">
               <div className="icon">
                 <Image
                   src={isLightTheme ? data.img : data.imgLight}

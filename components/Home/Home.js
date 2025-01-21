@@ -210,7 +210,7 @@ const Home = () => {
         <ServiceStyleOne />
       </div>
 
-      <div className="rainbow-advance-tab-area aiwave-bg-gradient rainbow-section-gap-big">
+      <div className="rainbow-advance-tab-area genos-bg-gradient rainbow-section-gap-big">
         <div className="container">
           <div className="html-tabs" data-tabs="true">
             <AdvanceTab />

@@ -28,33 +28,6 @@
           ]
         }
       ],
-      "services": [
-        {
-          "title": "Services",
-          "innerItem": [
-            {
-              "link": "/image-generator",
-              "text": "Image Generator"
-            },
-            {
-              "link": "/vedio-generator",
-              "text": "Video Generator"
-            },
-            {
-              "link": "/text-generator",
-              "text": "Text Generator"
-            },
-            {
-              "link": "/code-generator",
-              "text": "Code Generator"
-            },
-            {
-              "link": "#",
-              "text": "Education Feedback"
-            }
-          ]
-        }
-      ],
       "socialcommunity": [
         {
           "x":"",
